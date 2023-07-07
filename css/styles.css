@@ -1,0 +1,137 @@
+body{
+  color: #40514E;
+  text-align: center;
+  margin: auto;
+  background-color: #E4F9F5;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-weight: normal;
+  color: #C58940;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  font-size: 4rem;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  font-weight: normal;
+  color: #F7A76C;
+  font-family: 'Montez', cursive;
+}
+
+h3{
+  font-weight: normal;
+  color: #F7A76C;
+  font-size: 1.5rem;
+  font-family: 'Montez', cursive;
+}
+
+.pro{
+  font-size: 1.5rem;
+  margin-top: 0px;
+  font-family: 'Merriweather', serif;
+}
+.top-container{
+
+  padding-top: 100px;
+  position: relative;
+}
+.cloud-2{
+  position: absolute;
+  bottom: 300px;
+  left: 100px;
+}
+.cloud-1{
+  position: absolute;
+  right: 150px;
+  top: 80px;
+}
+.table{
+  margin-left: auto;
+  margin-right: auto;
+}
+.name-row{
+  padding: 15px;
+}
+
+.img{
+  padding-top: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+}
+
+.cooking-img{
+  float: left;
+  margin-left: 60px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.list{
+  display: inline-block;
+  text-align: left;
+}
+
+.bottom-container{
+  position: relative;
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  margin-top: 30px;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.copyright{
+  font-size: 0.75rem;
+  color: #EAF6F6;
+}
+.footer-link{
+  padding-left: 30px;
+  padding-right: 30px;
+  color: #11999E;
+}
+
+hr {
+    margin: 40px auto 40px;
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 1ex 0ex 0ex;
+    border-color: #66BFBF;
+}
